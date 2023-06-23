@@ -1,0 +1,11 @@
+{
+  "name": "ext-iconset-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5"
+  },
+  "scripts": {
+    "build": "cp -r node_modules/bootstrap-icons/icons/* Resources/Public/Icons/Bootstrap"
+  }
+}

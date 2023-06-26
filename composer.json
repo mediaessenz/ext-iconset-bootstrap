@@ -84,6 +84,9 @@
         "typo3/cms": {
             "extension-key": "iconset_bootstrap",
             "web-dir": ".build/public"
+        },
+        "branch-alias": {
+            "dev-main": "1.0.x-dev"
         }
     }
 }

@@ -9,7 +9,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Iconset Bootstrap',
-    'description' => '',
+    'description' => 'Bootstrap Iconset for the Bootstrap Package',
     'category' => 'templates',
     'constraints' => [
         'depends' => [
